@@ -1,0 +1,6 @@
+C:\Users\Brian\Documents\GitHub\ModernMedical\Step0\Step0\bin\Debug\Step0.exe.config
+C:\Users\Brian\Documents\GitHub\ModernMedical\Step0\Step0\bin\Debug\Step0.exe
+C:\Users\Brian\Documents\GitHub\ModernMedical\Step0\Step0\bin\Debug\Step0.pdb
+C:\Users\Brian\Documents\GitHub\ModernMedical\Step0\Step0\obj\Debug\Step0.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\GitHub\ModernMedical\Step0\Step0\obj\Debug\Step0.exe
+C:\Users\Brian\Documents\GitHub\ModernMedical\Step0\Step0\obj\Debug\Step0.pdb
